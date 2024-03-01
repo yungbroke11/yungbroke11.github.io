@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1baf508b.css",
+    "main.js": "/static/js/main.1d0a9549.js",
+    "static/media/slide.svg": "/static/media/slide.ccae846596f95abe459a336ce67e4321.svg",
+    "static/media/doctor.svg": "/static/media/doctor.65d451d9ba7e54987628.svg",
+    "static/media/hero_img.png": "/static/media/hero_img.dd17d156723daacacb9e.png",
+    "static/media/whatsapp 1 1.svg": "/static/media/whatsapp 1 1.0d1b6164c631eb775f9f0a5b9ce6dd56.svg",
+    "static/media/someImg.jpg": "/static/media/someImg.14d4b047aab554778e33.jpg",
+    "static/media/telegram 1.svg": "/static/media/telegram 1.3289ac314a5613449e4c88d417590add.svg",
+    "static/media/Group 2.svg": "/static/media/Group 2.27bdecbd60abf3ff093d78eacc836f1a.svg",
+    "static/media/logo.svg": "/static/media/logo.1c89117bd249f5007a7755876c8c2580.svg",
+    "static/media/instagram 4 1.svg": "/static/media/instagram 4 1.000ad297abf8fc870bd6cb4479cb1c68.svg",
+    "static/media/whatsapp 1.svg": "/static/media/whatsapp 1.f9364dd77bdebd85d97d2af64f221432.svg",
+    "static/media/arrowL.svg": "/static/media/arrowL.7b3b2f592cbe02baf335db22c1b4dcd5.svg",
+    "index.html": "/index.html",
+    "static/media/plus.svg": "/static/media/plus.3293e87110244c75e32e77482f9347c1.svg",
+    "static/media/overlayD.svg": "/static/media/overlayD.0e2333506df851b558a3.svg",
+    "main.1baf508b.css.map": "/static/css/main.1baf508b.css.map",
+    "main.1d0a9549.js.map": "/static/js/main.1d0a9549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1baf508b.css",
+    "static/js/main.1d0a9549.js"
+  ]
+}
